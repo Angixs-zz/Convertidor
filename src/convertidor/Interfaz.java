@@ -7,6 +7,8 @@ package convertidor;
 /**
  *
  * @author migue
+ * //te amo ed maverick mucho
+ * //hola
  */
 public class Interfaz extends javax.swing.JFrame {
 
